@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "My Custom Extension",
+    "version": "1.0",
+    "description": "A simple Chrome extension to open an HTML page.",
+    "action": {
+      "default_icon": "icon.png",
+      "default_popup": "index.html"
+    },
+    "permissions": []
+  }
+  
+  
+  
